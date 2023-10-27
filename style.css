@@ -1,0 +1,45 @@
+/* Reset default margin and padding */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header and navigation */
+header {
+    text-align: center;
+    background-color: #e6e6ff;
+    color: #0d0d0d;
+    padding: 20px;
+}
+
+nav {
+    background-color:#e6e6ff ;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0d0d0d;
+}
+
+/* Style the sections */
+section {
+    padding: 20px;
+}
+
+/* Style the footer */
+footer {
+    text-align: left;
+    background-color: #d9d9d9;
+    color: #fff;
+    padding: 10px;
+}
